@@ -1,0 +1,4 @@
+Castle Total Damage = 0
+Total Killed = 0
+Average First-Shot Delay = -nan(ind)
+Average Kill Delay = -nan(ind)

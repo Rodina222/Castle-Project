@@ -1,0 +1,5 @@
+-842150451 0 -842150453 0 -842150453
+Castle Total Damage = 67.5043
+Total Killed = 1
+Average First-Shot Delay = -8.4215e+08
+Average Kill Delay = 0
