@@ -1,4 +1,4 @@
-# Castle
+# Battle Project
 Data structure project 
 
 The project is a simulation program that models a battle between a castle and its enemies. The simulation is based on data that is read from an input file. The input file contains a list of enemies, each represented as a line of text. Each line of text contains information about a single enemy, such as its type, arrival time, health, power, and firing delay.
